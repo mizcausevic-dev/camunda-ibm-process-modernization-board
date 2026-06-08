@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mizcausevic-dev.github.io/camunda-ibm-process-modernization-board/sitemap.xml
